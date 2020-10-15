@@ -1,0 +1,22 @@
+{
+  "name": "header-handler",
+  "version": "1.0.0",
+  "description": "nodejs header-friendly handler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "xd"
+  },
+  "keywords": [
+    "header",
+    "headers",
+    "backend",
+    "header-handler",
+    "header-parser"
+  ],
+  "author": "Bruno Passarelli",
+  "license": "MIT"
+}
